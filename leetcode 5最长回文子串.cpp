@@ -19,6 +19,7 @@
 */
 class Solution {
 public:
+    string longestPalindrome(string s) {
         int n = s.size();
         //一个字符肯定是回文
         if(n < 2 ){
