@@ -3,7 +3,7 @@
     https://leetcode-cn.com/problems/unique-binary-search-trees/
     动态规划+数学
     枚举每一个点作为根节点，根节点左侧的作为左子树，右侧的作为右子树
-    卡特兰树
+    卡特兰数
 */
 class Solution {
 public:
